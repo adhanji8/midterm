@@ -11,8 +11,7 @@ pulling: fetching the latest changes and merging their files with your existing 
 
 | criteria        | Trello       |Asana             |
 | --------------- |:-------------:|------------------:|
-| features        |drag and drop  |grouping easier to track|
-|                 |task             |                       |
-|calender         | can set due date| can set all in calendar |                 |                   |   format             |
+| features        |drag and drop  |grouping easier to track task|
+|calender         | can set due date| can set all in calendar format |
 |dependency management   |                   |   Specify which tasks need to be done |
 |
